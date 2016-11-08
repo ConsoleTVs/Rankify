@@ -4,7 +4,7 @@ var settings = {
     "summoner_region": "EUW", // Your summoner region
     "interval": 5000, // Refresh interval in ms
     "container_width": 400, // The container width in px
-    "text_color": "#ff0000", // The text color
+    "text_color": "#000000", // The text color
     "summoner_name_size": 50, // The summoner name size in px
     "summoner_tier_size": 25, // The summoner tier size in px
     "summoner_division_size": 25, // The summoner division size in px
