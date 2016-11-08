@@ -1,5 +1,5 @@
 $(function() {
-    if(!settings.api_key) {
+    if(!settings.api_key | settings.api_key == 'YOUR_KEY_HERE') {
         $('#summoner_name').text('Error, please check if your API key is set')
     }
     getData();
